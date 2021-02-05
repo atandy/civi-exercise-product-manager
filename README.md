@@ -32,5 +32,8 @@ You can spend as much or little time as you would like on this exercise, but we 
 ### Submitting Your Work
 Following completion of the assignment, please reach out to your primary point of contact and provide a link or attachment to your work. From there, we will be in touch. 
 
+### Any Questions
+If you have any questions about the assignment, you can reach out to your primary point of contact and are welcome to ask them there.
+
 ### Thank You
 We look forward to reviewing your work! And thank you for considering Civi!!
