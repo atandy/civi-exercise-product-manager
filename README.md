@@ -1,2 +1,32 @@
 # civi-exercise-product-manager
-Take-Home exercise for product manager candidates at Civi.
+Take-Home exercise for growth product manager candidates at Civi.
+
+
+## Exercise Summary
+
+### Scenario
+Assume that you have just joined a company that has a new mobile app that has 100 beta testers. The mobile app is simple: it is a free app for tracking real estate prices and available properties for sale throughout Latin America. 
+
+The 100 beta testers are all friends and family, and so far they’ve provided you with good feedback on the app; they “really like it”! 
+
+You are now preparing to launch this application to a wider audience and you will be in charge of growing the user base. 
+
+### Here are some questions we have for you:
+
+* What is your application launch strategy? How would you approach this? What tests would you run?
+* How would you grow the user base to 5,000 in 30 days with a budget of $5000 USD?
+* What metrics would you be focused on? Why?
+* What are some questions you would try to have answered immediately?
+* What would you use to analyze the data?
+* How would you prove that the app is working and adds values for users? How do you prove success?
+* What product features might you anticipate needing to build or how might results inform the product roadmap?
+* Bonus: How might you monetize this product in the future?
+
+## Submitting the Assignment
+For this assignment, you are welcome to submit the exercise in any format you would like: e.g word document, presentation (keynote, powerpoint, etc.). However, keep in mind that you could later be asked to present you work and talk through your approach. 
+
+You can spend as much or little time as you would like on this presentation, but we have seen that it typically takes candidates between 2-6 hours (depending on the depth they would like to go in).
+
+Following completion of the assignment, please reach out to us and send us your assignment. From there, we will be in touch. 
+
+We look forward to seeing your work!
