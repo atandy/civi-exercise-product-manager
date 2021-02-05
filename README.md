@@ -29,7 +29,7 @@ For this assignment, you are welcome to create and submit the exercise in any fo
 ### Time Allocation
 You can spend as much or little time as you would like on this exercise, but we have seen that it typically takes candidates between 2-6 hours (depending on how deep they wish to go).
 
-### Sending Your Work
+### Submitting Your Work
 Following completion of the assignment, please reach out to your primary point of contact and provide a link or attachment to your work. From there, we will be in touch. 
 
 ### Thank You
