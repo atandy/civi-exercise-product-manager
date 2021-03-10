@@ -11,10 +11,9 @@ The 100 beta testers are all friends and family, and so far they’ve provided y
 
 You are now preparing to launch this application to a wider audience and you will be in charge of growing the user base. 
 
-What is your application launch strategy? How would you approach this?
-
 ### Here are some questions for you:
 
+* What is your application launch strategy? How would you approach this? 
 * How would you grow the user base to 5,000 in 30 days with a budget of $5000 USD?
 * What metrics would you be focused on? Why?
 * What are some questions you would try to have answered immediately?
