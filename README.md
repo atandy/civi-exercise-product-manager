@@ -27,7 +27,7 @@ You are now preparing to launch this application to a wider audience and you wil
 For this assignment, you are welcome to create and submit the exercise in any format you would like, however please keep in mind that you could later be asked to present your work and talk through your approach. Also, you do not need to explicitly approach this as a question/answer format. 
 
 ### Time Allocation
-You can spend as much or little time as you would like on this exercise, but we have seen that it typically takes candidates between 2-6 hours (depending on how deep they wish to go). We would ideally like to receive your submission within 10 days; however, we understand that folks have other things going on and it can be difficult to find the time to complete assignments. If you need extra time, please just let us know.
+You can spend as much or little time as you would like on this exercise, but we have seen that it typically takes candidates between 2-6 hours (depending on how deep they wish to go). We would ideally like to receive your submission within 7 days; however, we understand that folks have other things going on and it can be difficult to find the time to complete assignments. If you need extra time, please just let us know.
 
 ### Submitting Your Work
 Following completion of the assignment, please reach out to your primary point of contact and provide a link or attachment to your work. From there, we will be in touch. 
