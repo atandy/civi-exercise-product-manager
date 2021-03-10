@@ -11,9 +11,10 @@ The 100 beta testers are all friends and family, and so far they’ve provided y
 
 You are now preparing to launch this application to a wider audience and you will be in charge of growing the user base. 
 
-### Here are some questions we have for you:
+What is your application launch strategy? How would you approach this?
 
-* What is your application launch strategy? How would you approach this? What tests would you run?
+### Here are some questions for you:
+
 * How would you grow the user base to 5,000 in 30 days with a budget of $5000 USD?
 * What metrics would you be focused on? Why?
 * What are some questions you would try to have answered immediately?
@@ -24,7 +25,7 @@ You are now preparing to launch this application to a wider audience and you wil
 
 ## Exercise Deliverables and Submissions
 ### Exercise Format
-For this assignment, you are welcome to create and submit the exercise in any format you would like: e.g word document, presentation (keynote, powerpoint, etc.). However, keep in mind that you could later be asked to present your work and talk through your approach. 
+For this assignment, you are welcome to create and submit the exercise in any format you would like, however please keep in mind that you could later be asked to present your work and talk through your approach. Also, you do not need to explicitly approach this as a question/answer format. 
 
 ### Time Allocation
 You can spend as much or little time as you would like on this exercise, but we have seen that it typically takes candidates between 2-6 hours (depending on how deep they wish to go). We would ideally like to receive your submission within 10 days; however, we understand that folks have other things going on and it can be difficult to find the time to complete assignments. If you need extra time, please just let us know.
